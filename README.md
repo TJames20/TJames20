@@ -37,4 +37,4 @@ Welcome to my GitHub! I'm a Data Analyst passionate about turning raw data into 
 ## Let's Connect 
 - www.linkedin.com/in/james-theophilus-hussaini-8a51253bb
 - theophilusjames9@gmail.com
-Thank you for visiting my GitHub profile!
+- Thank you for visiting my GitHub profile!
