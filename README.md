@@ -5,10 +5,10 @@ I'm James Theophilus Hussaini
 Welcome to my GitHub! I'm a Data Analyst passionate about turning raw data into actionable insights that drive informed business decisions. I enjoy uncovering patterns, building impactful visualizations, and using data storytelling to solve real-world business challenges.
 
 ## About Me
--Proficient in Microsoft Excel, SQL, Power BI, and Python for data analysis and business intelligence.
--Experienced in data cleaning, transformation, visualization, dashboard development, and business analysis.
--Passionate about identifying trends, uncovering insights, and translating complex data into actionable business recommendations.
--Committed to continuous learning, actively strengthening my skills through hands-on data analytics projects and real-world problem-solving.
+- Proficient in Microsoft Excel, SQL, Power BI, and Python for data analysis and business intelligence.
+- Experienced in data cleaning, transformation, visualization, dashboard development, and business analysis.
+- Passionate about identifying trends, uncovering insights, and translating complex data into actionable business recommendations.
+- Committed to continuous learning, actively strengthening my skills through hands-on data analytics projects and real-world problem-solving.
 
 ## Skills
 - Microsoft Excel
