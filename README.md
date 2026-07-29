@@ -35,6 +35,6 @@ Welcome to my GitHub! I'm a Data Analyst passionate about turning raw data into 
   My mission is to use data analytics to uncover valuable insights, support strategic decision-making, and drive solutions to real-world business problems.
 
 ## Let's Connect 
-www.linkedin.com/in/james-theophilus-hussaini-8a51253bb
-theophilusjames9@gmail.com
+- www.linkedin.com/in/james-theophilus-hussaini-8a51253bb
+- theophilusjames9@gmail.com
 Thank you for visiting my GitHub profile!
